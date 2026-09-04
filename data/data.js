@@ -68,7 +68,7 @@ window.ANRUI_DATA = {
     {
       "id": "rmtn2pnevqqno8",
       "title": "MC人物地图旅行动画",
-      "type": "MOD",
+      "type": "其他",
       "version": "解压即用",
       "author": "安瑞",
       "date": "2026-09-04",
