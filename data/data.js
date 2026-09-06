@@ -144,7 +144,7 @@ window.ANRUI_DATA = {
       "links": [
         {
           "name": "夸克网盘",
-          "url": "https://pan.quark.cn/s/7b0f36aa05e3",
+          "url": "https://pan.quark.cn/s/ca01acfeb56f",
           "code": "",
           "note": ""
         },
