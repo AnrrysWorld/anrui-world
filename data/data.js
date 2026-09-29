@@ -150,9 +150,9 @@ window.ANRUI_DATA = {
         },
         {
           "name": "迅雷网盘",
-          "url": "",
+          "url": "https://pan.xunlei.com/s/VP2hPCjS__paCDs8k7Xe68lwA1?pwd=evri#",
           "code": "",
-          "note": "施工中"
+          "note": ""
         }
       ],
       "images": [
